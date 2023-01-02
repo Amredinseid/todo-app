@@ -3,7 +3,7 @@ function Appbar() {
   return (
     <div className="appbar-root">
       <div className="nav-container">
-        <h2>TODO APP</h2>
+        <h2>TODO APPS</h2>
       </div>
     </div>
   );
